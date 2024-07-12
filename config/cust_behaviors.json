@@ -1,0 +1,34 @@
+[
+	{
+		"code": "F13",
+		"name": "F13",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "F14",
+		"name": "F14",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "F15",
+		"name": "F15",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "F",
+		"name": "F",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
